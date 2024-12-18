@@ -1,2 +1,2 @@
-export const BASE_URL = 'https://123.207.32.32:9060/beike/api'
+export const BASE_URL = 'https://fancy-sky-cbb8.angelboy008.workers.dev'
 export const TIMEOUT = 10000
